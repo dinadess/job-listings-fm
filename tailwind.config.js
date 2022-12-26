@@ -4,10 +4,8 @@ module.exports = {
     theme: {
         extend: {
             backgroundImage: {
-                'header-desktop':
-                    "url('./src/assets/images/bg-header-desktop.svg')",
-                'header-mobile':
-                    "url('./src/assets/images/bg-header-mobile.svg')",
+                'header-desktop': "url('./images/bg-header-desktop.svg')",
+                'header-mobile': "url('./images/bg-header-mobile.svg')",
             },
             colors: {
                 /* Primary */

@@ -5,7 +5,7 @@
         <div
             class="absolute left-5 top-0 -translate-y-1/2 md:left-0 md:relative md:translate-y-0">
             <img
-                :src="`../assets/${listing.logo}`"
+                :src="`./assets/${listing.logo}`"
                 :alt="`${listing.company} Logo`"
                 class="w-7/12 md:w-full max-w-full h-auto" />
         </div>

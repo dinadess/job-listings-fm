@@ -15,7 +15,7 @@
                     @click="listingStore.removeFilter(index)">
                     <img
                         class="bg-dark-cyan py-1 px-2 rounded-r-md hover:bg-grayish-cyan-very-dark transition-colors h-full object-contain"
-                        src="../assets/images/icon-remove.svg"
+                        :src="`./assets/images/icon-remove.svg`"
                         alt="Remove Filter Icon" />
                 </button>
             </li>
