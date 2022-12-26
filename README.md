@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Preview of the page](src/assets/images/preview.png)
+![Preview of the page](public/assets/images/preview.png)
 
 ### Links
 
