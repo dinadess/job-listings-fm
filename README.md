@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [Github Repo](https://github.com/dinadess/job-listings-fm/)
+-   Solution URL: [on Frontend Mentor](https://github.com/dinadess/job-listings-fm/)
 -   Live Site URL: [Job Listings](https://dinadess.github.io/job-listings-fm/)
 
 ## My process
