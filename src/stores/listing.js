@@ -25,7 +25,9 @@ export const useListingStore = defineStore('listing', {
     },
     actions: {
         addFilter(filterTerm) {
-            if (this.filter.includes(filterTerm)) return;
+            if (this.filter.includes(filterTerm))
+                if (this.filter.includes(filterTerm)) return;
+
             this.filter.push(filterTerm);
         },
         removeFilter(index) {

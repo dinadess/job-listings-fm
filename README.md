@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [on Frontend Mentor](https://github.com/dinadess/job-listings-fm/)
+-   Solution URL: [on frontend mentor](https://www.frontendmentor.io/solutions/job-listings-with-filtering-_5fnnUPop6)
 -   Live Site URL: [Job Listings](https://dinadess.github.io/job-listings-fm/)
 
 ## My process

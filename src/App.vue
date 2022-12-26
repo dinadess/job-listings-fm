@@ -1,7 +1,11 @@
 <template>
     <header
-        class="max-[375px]:bg-header-mobile min-[376px]:bg-header-desktop h-36 w-full bg-dark-cyan bg-no-repeat bg-cover">
-        <p class="text-white text-center pt-8 px-3 max-w-md mx-auto">
+        class="max-[375px]:bg-header-mobile min-[376px]:bg-header-desktop h-40 w-full bg-dark-cyan bg-no-repeat bg-cover">
+        <h1 class="text-white text-lg text-center pt-10 px-3">
+            Welcome to this job listings!
+        </h1>
+        <p
+            class="text-white text-center pt-1 px-3 max-w-md mx-auto text-sm md:text-base">
             <span class="bg-grayish-cyan-dark rounded-full py-1 px-2"
                 >&quest;</span
             >
